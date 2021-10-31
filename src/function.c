@@ -23,3 +23,11 @@ int sottrazione (int sot1, int sot2){
 	
 }
 
+/* Moltiplicazio */
+int mul (int sot1, int sot2){
+	
+	return (sot1 * sot2);
+	
+}
+
+
