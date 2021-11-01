@@ -16,18 +16,10 @@ int somma (int add1, int add2){
 	
 }
 
-/* Sottrazione */
-int sottrazione (int sot1, int sot2){
-	
-	return (sot1 - sot2);
-	
-}
-
 /* Moltiplicazione */
-int mul (int sot1, int sot2){
+int mul (int mul1, int mul2){
 	
-	return (sot1 * sot2);
+	return (mul1 * mul2);
 	
 }
-
 
