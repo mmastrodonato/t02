@@ -30,4 +30,11 @@ int mul (int sot1, int sot2){
 	
 }
 
+/* Divisione */
+int mul (int sot1, int sot2){
+	
+	return (sot1 / sot2);
+	
+}
+
 
