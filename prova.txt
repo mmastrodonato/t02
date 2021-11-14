@@ -4,5 +4,15 @@ riga 3
 
 riga 5
 riga 6
-riga 7
-riga 8
+
+
+
+
+
+
+
+
+
+
+riga 17
+riga 18
